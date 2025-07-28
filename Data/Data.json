@@ -1,0 +1,297 @@
+{
+    "destinations": [
+      {
+        "name": "Taj Mahal",
+        "category": "Historical",
+        "image": [
+          "https://images.pexels.com/photos/5608221/pexels-photo-5608221.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg",
+          "https://c4.wallpaperflare.com/wallpaper/839/1000/912/world-1920x1080-taj-mahal-taj-wallpaper-preview.jpg"
+        ],
+        "description": "A timeless symbol of love, the Taj Mahal is an ivory-white marble mausoleum in Agra, built by Emperor Shah Jahan for his wife Mumtaz Mahal. Its intricate craftsmanship and symmetrical gardens make it a UNESCO World Heritage Site and one of the New Seven Wonders of the World."
+      },
+      {
+        "name": "Goa Beaches",
+        "category": "Beaches",
+        "image": [
+          "https://img.freepik.com/premium-photo/umbrella-chair-beach-with-palm-tree-sea-beach_1339-125629.jpg?size=626&ext=jpg&ga=GA1.1.553209589.1714176000&semt=ais",
+          "https://gogoacarrentals.com/wp-content/uploads/2019/03/Candolim-Beach.jpg",
+          "https://assets.cntraveller.in/photos/60ba253f0f3a5367ec9fe958/16:9/w_1360,h_765,c_limit/GoaWhat-I-learnt-Ranjan-Pal-1366x768.jpg"
+        ],
+        "description": "Goa’s sun-kissed beaches, from bustling Baga to serene Palolem, offer golden sands, turquoise waters, and vibrant beach shacks. By day, enjoy water sports; by night, revel in electrifying nightlife and fresh seafood under the stars."
+      },
+      {
+        "name": "Kerala Backwaters",
+        "category": "Nature",
+        "image": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Houseboats_at_Kerala_Backwaters.jpg/640px-Houseboats_at_Kerala_Backwaters.jpg",
+          "https://www.tripsavvy.com/thmb/UoylMLyzOBPdDp34ForEiJd9m3s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-522478216-5ab12c4e3de4230036949cee.jpg",
+          "https://placesinpixel.com/wp-content/uploads/2019/08/kerala-backwaters-1.jpg"
+        ],
+        "description": "Glide through Kerala’s tranquil backwaters on a traditional houseboat, passing palm-fringed canals, emerald rice paddies, and quaint villages. This labyrinth of lagoons and lakes is a haven for relaxation and cultural immersion."
+      },
+      {
+        "name": "Varanasi",
+        "category": "Spiritual",
+        "image": [
+          "https://images.pexels.com/photos/8112531/pexels-photo-8112531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "https://www.planetware.com/wpimages/2020/02/india-varanasi-best-places-to-visit-ganges-river.jpg",
+          "https://travelogyindia.b-cdn.net/blog/wp-content/uploads/2018/09/Temple-Varanasi.jpg"
+        ],
+        "description": "Varanasi, the spiritual heart of India, enchants with its sacred Ganges River ghats, where pilgrims perform rituals and evening aarti ceremonies illuminate the waters. Wander narrow alleys lined with ancient temples and feel the pulse of eternal devotion."
+      },
+      {
+        "name": "Jaipur",
+        "category": "City",
+        "image": [
+          "https://cdn.pixabay.com/photo/2021/04/06/11/22/hawa-mahal-6156123_1280.jpg",
+          "https://m.economictimes.com/thumb/msid-70104165,width-1200,height-900,resizemode-4,imgsize-1445127/jaipur_gettyimages.jpg",
+          "https://media.tacdn.com/media/attractions-content--1x-1/10/65/bd/ac.jpg"
+        ],
+        "description": "Jaipur, the ‘Pink City,’ dazzles with its royal heritage—amber-hued palaces, majestic forts like Amer, and bustling bazaars. A blend of Rajput grandeur and modern vibrancy, it’s a gateway to Rajasthan’s rich culture and crafts."
+      },
+      {
+        "name": "Rishikesh",
+        "category": "Adventure",
+        "image": [
+          "https://images.pexels.com/photos/2829336/pexels-photo-2829336.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "https://media1.thrillophilia.com/filestore/pf3hv3jqvrjtt5rotnpr3v6a6y2d_1575268796_shutterstock_1136356946.jpg?w=400&dpr=2",
+          "https://www.treksandtrails.org/system/images/000/505/572/ae722695fba0950a54b99232d1c323a4/original/Rishikesh-rafting.jpg?1649594343"
+        ],
+        "description": "Nestled in the Himalayas, Rishikesh is the ‘Yoga Capital of the World’ and an adrenaline hub. Raft the Ganges’ rapids, meditate by the river, or trek to waterfalls—all amidst the serenity of spiritual ashrams."
+      },
+      {
+        "name": "Andaman Islands",
+        "category": "Islands",
+        "image": [
+          "https://images.pexels.com/photos/749115/pexels-photo-749115.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ299HvvoRLCbPzk6yHqVUSSxHc2mMN7R0VRm0wGuY5Xg&s",
+          "https://www.andamanislands.com/uploads/andamanislands/blog/main/5fa40347e356f155_history_of_andaman_islands.jpg"
+        ],
+        "description": "The Andamans are a tropical paradise with powdery white beaches, crystal-clear waters, and some of Asia’s best coral reefs. Snorkel with vibrant fish, kayak through mangroves, or unwind in secluded beachfront bliss."
+      },
+      {
+        "name": "Udaipur",
+        "category": "Heritage",
+        "image": [
+          "https://images.pexels.com/photos/788943/pexels-photo-788943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "https://static.toiimg.com/thumb/msid-82304823,width-748,height-499,resizemode=4,imgsize-647878/.jpg",
+          "https://www.thehosteller.com/_next/image?url=https%3A%2F%2Fstatic.thehosteller.com%2Fhostel%2Fimages%2Fcover%20photo.jpg%2Fcover%20photo-1696914123916.jpg&w=2048&q=75"
+        ],
+        "description": "Udaipur’s shimmering lakes and fairy-tale palaces, like the Lake Palace and City Palace, evoke romance and regality. Dubbed the ‘Venice of the East,’ its sunsets, boat rides, and Mewar heritage captivate every traveler."
+      },
+      {
+        "name": "Darjeeling",
+        "category": "Hill Station",
+        "image": [
+          "https://cdn.s3waas.gov.in/s322fb0cee7e1f3bde58293de743871417/uploads/2020/09/2020092224.jpg",
+          "https://static.toiimg.com/thumb/msid-104684413,width-748,height-499,resizemode=4,imgsize-65830/.jpg",
+          "https://i0.wp.com/travelgangtok.com/blog/wp-content/uploads/2023/09/darjeeling-half-day-private.jpg?fit=550%2C364&ssl=1"
+        ],
+        "description": "Perched in the Himalayas, Darjeeling is famed for its misty tea plantations, the ‘Toy Train’ chugging through hills, and panoramic views of Kanchenjunga. Sip world-class tea while soaking in colonial charm and mountain serenity."
+      },
+      {
+        "name": "Ajanta and Ellora Caves",
+        "category": "Historical",
+        "image": [
+          "https://cdn.britannica.com/70/153470-050-F4594C27/Ajanta-Caves-Maharashtra-India.jpg",
+          "https://www.pilgrimagetour.in/blog/wp-content/uploads/2024/01/Best-Time-to-Visit-Ajanta-Caves.jpg",
+          "https://static.toiimg.com/thumb/msid-102582207,width-748,height-499,resizemode=4,imgsize-190114/.jpg"
+        ],
+        "description": "These UNESCO-listed rock-cut caves are a masterpiece of ancient Indian art. Ajanta’s Buddhist murals and Ellora’s Kailasa Temple, carved from a single rock, showcase India’s spiritual and architectural brilliance across centuries."
+      },
+      {
+        "name": "Mumbai",
+        "category": "Metropolitan",
+        "image": [
+          "https://media.istockphoto.com/id/1307189136/photo/gateway-of-india-mumbai-maharashtra-monument-landmark-famous-place-magnificent-view-without.jpg?s=612x612&w=0&k=20&c=gGzzkXY5bAVbRbokzrjvkt7Ve-Z3yzSVN04NaMqyBB8=",
+          "https://th-i.thgim.com/public/incoming/jnhksh/article67461156.ece/alternates/FREE_1200/iStock-1679852831.jpg",
+          "https://static.toiimg.com/photo/103532002.cms"
+        ],
+        "description": "Mumbai, India’s bustling financial capital, thrums with energy—from Bollywood glamour and colonial-era landmarks like the Gateway of India to street food feasts and the glittering Marine Drive skyline. A city where dreams and dynamism collide."
+      },
+      {
+        "name": "Kolkata",
+        "category": "Cultural and Culinary",
+        "image": [
+          "https://images.pexels.com/photos/3965543/pexels-photo-3965543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "https://lp-cms-production.imgix.net/2019-06/GettyImages-143559567_high.jpg",
+          "https://www.savaari.com/blog/wp-content/uploads/2022/08/Kolkata-1.jpg"
+        ],
+        "description": "Kolkata, the ‘City of Joy,’ enchants with its intellectual fervor, colonial architecture, and Durga Puja festivities. Savor mishti doi (sweet yogurt), ride a tram, and explore its literary cafés and historic Howrah Bridge."
+      },
+      {
+        "name": "Puri",
+        "category": "Spiritual and Beach",
+        "image": [
+          "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/12/The-Jagannath-Temple-in-Puri.jpg",
+          "https://www.holidify.com/images/bgImages/PURI.jpg",
+          "https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/cover-places-Near-Puri_15th-jan.jpg"
+        ],
+        "description": "Puri is a sacred coastal town where the Jagannath Temple draws pilgrims, while its golden beaches invite relaxation. Witness the annual Rath Yatra, where colossal chariots parade through vibrant crowds."
+      },
+      {
+        "name": "Shimla",
+        "category": "Hill Station",
+        "image": [
+          "https://www.trawell.in/admin/images/upload/487035497Shimla_Main.jpg",
+          "https://c.ndtvimg.com/2022-01/j49ev9ig_shimla-snow-pti_625x300_24_January_22.jpg",
+          "https://images.cnbctv18.com/wp-content/uploads/2022/08/Shimla-shutterstock-1019x573.jpg"
+        ],
+        "description": "Shimla’s colonial-era charm blends with Himalayan vistas—stroll the Mall Road, ride the historic Kalka-Shimla Railway, and enjoy apple orchards and snowy winters in this quintessential mountain retreat."
+      },
+      {
+        "name": "Srinagar",
+        "category": "Scenic Beauty and Lakes",
+        "image": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgn3MCVm_arCutzia10WJVrblfOvbvi2QTt9UmP4AQ2A&s",
+          "https://img.veenaworld.com/wp-content/uploads/2023/01/Things-To-Do-in-Srinagar.jpg",
+          "https://facts.net/wp-content/uploads/2023/07/38-facts-about-srinagar-1688457299.jpeg"
+        ],
+        "description": "Srinagar’s Dal Lake, with its floating gardens and ornate houseboats, mirrors the surrounding snow-capped peaks. Explore Mughal gardens, sip saffron kahwa, and embrace the tranquility of Kashmir’s summer capital."
+      },
+      {
+        "name": "Munnar",
+        "category": "Hill Station and Tea Gardens",
+        "image": [
+          "https://t4.ftcdn.net/jpg/01/28/57/63/360_F_128576315_ejpjSy7S7fsH275jCDuUtykU1O3B6rUb.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Munnar_hill_station_.JPG/1200px-Munnar_hill_station_.JPG",
+          "https://oneday.travel/wp-content/uploads/one-day-munnar-local-sightseeing-tour-package-with-top-station-by-private-car-header-1568x1045.jpg"
+        ],
+        "description": "Munnar’s rolling tea estates, shrouded in mist, create a surreal green tapestry. Trek to Anamudi Peak, spot Nilgiri tahr, and breathe in the crisp air of Kerala’s most enchanting highland escape."
+      },
+      {
+        "name": "Chennai",
+        "category": "Metropolitan and Cultural Hub",
+        "image": [
+          "https://www.fabhotels.com/blog/wp-content/uploads/2019/02/MGR-Film-City.jpg",
+          "https://www.incredibleindia.org/content/dam/incredible-india-v2/images/places/chennai/Original.jpg/jcr:content/renditions/cq5dam.web.1800.737.jpeg",
+          "https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg"
+        ],
+        "description": "Chennai blends tradition and modernity—ancient Kapaleeshwarar Temple stands beside Marina Beach’s lively promenade. Dive into Carnatic music, filter coffee, and the city’s thriving arts and film scene."
+      },
+      {
+        "name": "Leh-Ladakh",
+        "category": "Adventure and Scenic Beauty",
+        "image": [
+          "https://img.nayatrip.com/images/place/big/ladakh.jpg",
+          "https://cdn.pixabay.com/photo/2017/05/10/13/39/ladakh-2300904_640.jpg",
+          "https://media.istockphoto.com/id/1218830644/photo/beautiful-lake.jpg?s=612x612&w=0&k=20&c=r5or5KmtrZE5P93cDPG2FzxWQxhZA0qeTInoXJ7qXxA="
+        ],
+        "description": "Leh-Ladakh’s stark landscapes—high-altitude deserts, turquoise Pangong Lake, and ancient monasteries like Hemis—offer a rugged paradise for bikers, trekkers, and seekers of raw Himalayan beauty."
+      },
+      {
+        "name": "Pondicherry (Puducherry)",
+        "category": "Colonial Heritage and Beaches",
+        "image": [
+          "https://www.abhibus.com/blog/wp-content/uploads/2023/04/Best-Places-to-Visit-in-Pondicherry-in-3-days.jpg",
+          "https://curlytales.com/wp-content/uploads/2016/09/Pondicherry-1024x538.jpg",
+          "https://hikerwolf.com/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-31-at-3.18.20-PM-1.jpeg"
+        ],
+        "description": "Pondicherry’s French Quarter, with its mustard-yellow villas and café-lined streets, feels like a Mediterranean escape. Meditate at Auroville’s Matrimandir or unwind on Paradise Beach for a serene coastal vibe."
+      },
+      {
+        "name": "Amritsar, Punjab",
+        "category": "Spiritual and Historical",
+        "image": [
+          "https://cdn.britannica.com/06/162706-050-E566DC89/Harmandir-Sahib-Teja-Singh-Samudri-Hall-Clock.jpg",
+          "https://punjabtourism.punjab.gov.in/destination/destibnation-amritsar-15.jpg",
+          "https://punjabtourism.punjab.gov.in/destination/destibnation-amritsar-1.jpg"
+        ],
+        "description": "Amritsar’s Golden Temple radiates spiritual serenity, its marble and gold sanctum reflected in the sacred Amrit Sarovar. Nearby, the Wagah Border’s patriotic ceremony and Jallianwala Bagh’s memorial echo India’s history."
+      },
+      {
+        "name": "Khajuraho, Madhya Pradesh",
+        "category": "Historical and Architectural",
+        "image": [
+          "https://live.staticflickr.com/7122/7810078770_43a28d760a_b.jpg",
+          "https://i.ytimg.com/vi/o9GqYS6uvsE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC5d3Kc5LWBoI8LdU20yo-wxusRZQ",
+          "https://beyonder.travel/wp-content/uploads/2020/05/Khajuraho-Temples-scaled.jpg"
+        ],
+        "description": "Khajuraho’s UNESCO-listed temples astonish with intricately carved erotic sculptures and celestial nymphs, celebrating love and spirituality. A testament to the Chandela dynasty’s artistic genius, these temples blend Hindu and Jain traditions."
+      },
+      {
+        "name": "Gangtok, Sikkim",
+        "category": "Hill Station and Adventure",
+        "image": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKhxIm2-987or_TOopobEc5-onTeGGAlFonsH84q9BHQ&s",
+          "https://cdn.britannica.com/23/173823-050-E7E5BADB/area-Gangtok-Sikkim-India.jpg",
+          "https://img.traveltriangle.com/attachments/pictures/842716/original/Darjeeling-Cable-Car-1.jpg"
+        ],
+        "description": "Gangtok, cradled by the Himalayas, offers misty valleys, Buddhist monasteries like Rumtek, and thrilling treks to Dzongri. Savor momos with mountain views and immerse in Sikkim’s blend of Tibetan and indigenous cultures."
+      },
+      {
+        "name": "Chandigarh",
+        "category": "Urban Planning and Gardens",
+        "image": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxwiA1z_nonn6v_JOu3WLaCcSMHqOefh3sA3bNPFgO0g&s",
+          "https://static2.tripoto.com/media/filter/tst/img/236312/TripDocument/1454609520_24633829142_478897d4dc_b.jpg",
+          "https://images.indianexpress.com/2020/02/rose-festival.jpg"
+        ],
+        "description": "Chandigarh, Le Corbusier’s modernist marvel, boasts grid-planned sectors, the quirky Rock Garden of recycled art, and Sukhna Lake’s tranquility. A green city where architecture meets nature in perfect harmony."
+      },
+      {
+        "name": "Mysore, Karnataka",
+        "category": "Heritage and Cultural",
+        "image": [
+          "https://www.holidaymonk.com/wp-content/uploads/2022/05/Mysore-Palace.webp",
+          "https://www.holidify.com/images/bgImages/MYSORE.jpg",
+          "https://karnatakatourism.org/wp-content/uploads/2020/05/Mysore-banner.jpg"
+        ],
+        "description": "Mysore’s opulent palace, illuminated by 100,000 bulbs during Dasara, epitomizes Wodeyar grandeur. Explore silk saree markets, sandalwood workshops, and the nearby Srirangapatna’s Tipu Sultan legacy in this cultural gem."
+      },
+        {
+        "name": "Hampi, Karnataka",
+        "category": "Historical and Heritage",
+        "image": [
+          "https://karnatakatourism.org/wp-content/uploads/2020/06/Adventure-800x550.jpg",
+          "https://karnatakatourism.org/wp-content/uploads/2020/06/Districts-1-800x550.jpg",
+          "https://karnatakatourism.org/wp-content/uploads/2020/06/Museum-800x550.jpg"
+        ],
+        "description": "Hampi, a UNESCO World Heritage Site, was once the capital of the Vijayanagara Empire. It is known for its captivating ruins, ancient temples, and boulder-strewn landscapes."
+      },
+      
+      {
+        "name": "Spiti Valley, Himachal Pradesh",
+        "category": "Adventure and Scenic Beauty",
+        "image": [
+          "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSKQNQ3QOO-p8v_QO4z7W_331ukWLNuxZDWGrHXjjZCHbCtuhYjcdSy23CX2-jndYzwQy89TZZP7NesOHR1cF-Z-tjql-sy5ZKGn9xffw",
+          "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npbkQ0X7_F3Bu0k0mGVCp4yqBvPJ4RR2XvCfat1nHOTswnx3QTN1vNA1Wtin4mVHdYiMPO7DcCyDDGpUI__luGdqWsmZLGPbz5r9lT6HhdgL05z2IVfeFAqXqmH3n-zK6rx4DKJ=w810-h468-n-k-no",
+          "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcT9bss5JOamhGOLYElwLBGxN7b1l5U0fi-L8lJyO65lxeoUk2eW2a4fxZbVCtSo13nPXS0bZFDdnnAz8YerIrn6wq5kCreolfmNHaP76g"
+        ],
+        "description": "Spiti Valley is a cold desert mountain valley offering a unique Tibetan-influenced culture, ancient monasteries, and rugged adventure, making it a haven for offbeat travelers."
+      },
+      {
+        "name": "Konark Sun Temple, Odisha",
+        "category": "Historical and Architectural",
+        "image": [
+          "https://media.assettype.com/TNIE%2Fimport%2F2020%2F1%2F25%2Foriginal%2FKonark_Sun_temple.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "https://mystreal.com/_next/image/?url=%2Ftemple%2Fkonark-sun-temple%2Fhero-konark-sun-temple.jpg&w=3840&q=75",
+          "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2023/12/05144212/Featured-Sun-Temple-Nmp-Asrith-Shutterstock-1600x900.jpg"
+        ],
+        "description": "The Konark Sun Temple, a UNESCO World Heritage Site, is a 13th-century architectural marvel built in the shape of a colossal chariot dedicated to the Sun God."
+      },
+      {
+        "name": "Auli, Uttarakhand",
+        "category": "Adventure and Snow",
+        "image": [
+          "https://d3sftlgbtusmnv.cloudfront.net/blog/wp-content/uploads/2024/11/Things-To-Do-In-Auli-Cover-Photo-3-840x425.jpg",
+          "https://s7ap1.scene7.com/is/image/incredibleindia/auli-badrinath-uttarakhand-3-attr-hero?qlt=82&ts=1726646558382",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFSg90hGY-wXIodPc0Cvt6OBTzCYHUnm60eg&s"
+        ],
+        "description": "Auli is a stunning hill station and skiing destination known for snow-covered slopes, panoramic views of Himalayan peaks, and a perfect place for winter adventure lovers."
+      },
+      {
+        "name": "Majuli, Assam",
+        "category": "Islands and Culture",
+        "image": [
+          "https://static.toiimg.com/photo/64012913.cms",
+          "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2020/06/Inside-majuli5.jpg",
+          "https://static.wixstatic.com/media/9b64ce_59621eda56164829911feae1cd83d516~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/9b64ce_59621eda56164829911feae1cd83d516~mv2.jpg"
+        ],
+        "description": "Majuli is the world’s largest river island located on the Brahmaputra River. It is known for its vibrant Assamese culture, Satras (monasteries), and ecological diversity."
+      }
+
+
+    ]
+}

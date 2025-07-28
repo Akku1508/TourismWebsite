@@ -1,0 +1,200 @@
+.about-us-container {
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    width: 90%;
+    /* max-width: 1200px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-us-heading {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #1F2937;
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+.about-us-subheading {
+    font-size: 1.25rem;
+    color: #6B7280;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto 2rem;
+    padding: 0 1rem;
+}
+
+.about-us-blocks-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 2rem;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.about-us-block {
+    display: flex;
+    gap: 2rem;
+}
+
+.about-us-card {
+    flex: 1;
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    border: 1px solid #E5E7EB;
+}
+
+.about-us-card.hovered {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    border-color: #4F46E5;
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.card-icon {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1F2937;
+    margin: 0;
+}
+
+.card-content {
+    color: #6B7280;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.about-us-mission {
+    background-color: #F9FAFB;
+    border-radius: 12px;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.about-us-mission h2 {
+    font-size: 1.75rem;
+    color: #1F2937;
+    margin-bottom: 1rem;
+}
+
+.about-us-mission p {
+    color: #6B7280;
+    max-width: 800px;
+    margin: 0 auto 2rem;
+    line-height: 1.6;
+    padding: 0 1rem;
+}
+
+.mission-svg {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    margin: 0 auto;
+}
+
+@media (max-width: 1024px) {
+    .about-us-container {
+        margin-top: 120px;
+        width: 95%;
+    }
+    
+    .about-us-mission {
+        padding: 1.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .about-us-container {
+        margin-top: 100px;
+        width: 100%;
+        padding: 0 1rem;
+    }
+    
+    .about-us-block {
+        flex-direction: column;
+    }
+    
+    .about-us-heading {
+        font-size: 2rem;
+    }
+    
+    .about-us-subheading {
+        font-size: 1rem;
+        padding: 0 0.5rem;
+    }
+    
+    .about-us-mission {
+        padding: 1.25rem;
+    }
+    
+    .about-us-mission h2 {
+        font-size: 1.5rem;
+    }
+    
+    .about-us-mission p {
+        font-size: 0.9rem;
+        padding: 0;
+    }
+    
+    .about-us-blocks-container {
+        padding: 1rem;
+    }
+    
+    .about-us-card {
+        padding: 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .about-us-container {
+        margin-top: 80px;
+        gap: 1.5rem;
+    }
+    
+    .about-us-heading {
+        font-size: 1.75rem;
+    }
+    
+    .about-us-mission {
+        padding: 1rem;
+    }
+    
+    .about-us-mission h2 {
+        font-size: 1.25rem;
+    }
+    
+    .card-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+    
+    .card-title {
+        font-size: 1.1rem;
+    }
+    
+    .card-content {
+        font-size: 0.9rem;
+    }
+}
