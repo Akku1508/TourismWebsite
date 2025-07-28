@@ -20,7 +20,7 @@ Tech Stack
 - **Frontend:** React.js (Vite)
 - **Styling:** Tailwind CSS
 
-
+---
 
 Follow these steps to set up and run the project locally:
 
