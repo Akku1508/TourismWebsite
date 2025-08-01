@@ -33,3 +33,7 @@ Follow these steps to set up and run the project locally:
 
 ### 3. Start the Development Server
 ### npm run dev
+
+---
+📌 **Note:** The source code is available in the `master` branch.
+
